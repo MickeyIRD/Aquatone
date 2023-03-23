@@ -1,0 +1,17 @@
+200 OK
+Content-Type: text/html; charset=utf-8
+Etag: "13zzgmditll28mj"
+X-Nextjs-Cache: HIT
+X-Azure-Ref: 0a7UcZAAAAABTUtrsbZz7TZcz+/l6TpqIQU1TMDRFREdFMTkyMABiYjc2ZmE2Ni1jOGMzLTQ0NzAtODM2MC04MjgzZWY3ODI0YTA=
+Request-Context: appId=cid-v1:43080eb3-6e51-4059-b80f-1f2edb46058c
+X-Xss-Protection: 1; mode=block
+Permissions-Policy: autoplay=*, fullscreen=*, geolocation=*, picture-in-picture=*
+Retry-Count: 0
+Date: Thu, 23 Mar 2023 20:24:10 GMT
+Strict-Transport-Security: max-age=10886400; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Cache-Control: s-maxage=60, stale-while-revalidate
+Vary: Accept-Encoding
+X-Cache: TCP_HIT
